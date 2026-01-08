@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Abayomi Soremi | Treasury & Finance Leader</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; margin: 0; background: #f5f7fa; color: #222; }
+    header { background: #0b2c4a; color: #fff; padding: 60px 20px; text-align: center; }
+    header h1 { margin: 0; font-size: 42px; }
+    header p { font-size: 18px; max-width: 900px; margin: 15px auto; }
+    section { max-width: 1100px; margin: auto; padding: 50px 20px; }
+    h2 { color: #0b2c4a; border-bottom: 3px solid #e1e6ee; padding-bottom: 10px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; }
+    .card { background: #fff; padding: 25px; border-radius: 10px; box-shadow: 0 6px 15px rgba(0,0,0,0.08); }
+    ul { padding-left: 20px; }
+    footer { background: #0b2c4a; color: #fff; text-align: center; padding: 30px; }
+    .tag { display: inline-block; background: #e6eef7; color: #0b2c4a; padding: 6px 12px; border-radius: 20px; margin: 5px; font-size: 14px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Abayomi Soremi, BSc, MCTN, ACA</h1>
+  <p>Group Treasury Manager | Trade Finance & Liquidity Management | Strategic Financial Planning</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    Results-driven Treasury Leader with over <strong>11 years of progressive experience</strong> spanning FMCG and the automobile industry. I specialize in treasury strategy, liquidity management, and international trade finance, with deep expertise in Letters of Credit, FX risk management, and capital optimization.
+  </p>
+  <p>
+    Currently serving as <strong>Group Treasury Manager at CIG Motors</strong>, I support capital-intensive operations in a competitive, asset-heavy environment, driving strategic financial planning, strengthening banking relationships, and implementing robust treasury controls aligned with corporate objectives.
+  </p>
+</section>
+
+<section>
+  <h2>Professional Experience</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Group Treasury Manager</h3>
+      <strong>CIG Motors Co., Ltd (Sep 2023 – Present)</strong>
+      <ul>
+        <li>Lead group-wide cash flow forecasting, liquidity planning, and fund allocation across SBUs.</li>
+        <li>Manage Letters of Credit, FX sourcing, import settlement, and reconciliation of trade finance obligations.</li>
+        <li>Oversee banking relationships, negotiate pricing, and recover excess bank charges.</li>
+        <li>Support domestic and international financing initiatives and asset finance strategies.</li>
+        <li>Lead treasury automation, policy development, and internal control enhancements.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>Assistant Treasury Manager</h3>
+      <strong>TGI Group / TGI Distri Limited (Jun 2022 – Aug 2023)</strong>
+      <ul>
+        <li>Managed reconciliation and liquidation of import trade finance facilities.</li>
+        <li>Monitored FX sourcing, bidding, utilization, and refund of unutilized forex.</li>
+        <li>Reviewed finance costs and recovered excess bank charges.</li>
+        <li>Prepared daily bank position, exposure reports, and LC schedules.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>Senior Treasury & Accounting Roles</h3>
+      <strong>CHI Limited (Coca-Cola International Subsidiary)</strong>
+      <ul>
+        <li>Over 11 years of progressive experience across treasury and accounting functions.</li>
+        <li>Handled LC charges, FX revaluation, loan accounting, and export proceeds reporting.</li>
+        <li>Prepared daily bank positions, reconciliations, and compliance reports.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Core Competencies</h2>
+  <div>
+    <span class="tag">Treasury Leadership</span>
+    <span class="tag">Cash Flow Forecasting</span>
+    <span class="tag">Trade Finance & LCs</span>
+    <span class="tag">FX & Interest Rate Risk</span>
+    <span class="tag">Banking & Credit Facilities</span>
+    <span class="tag">Working Capital Optimization</span>
+    <span class="tag">Financial Controls & Policy</span>
+    <span class="tag">Treasury Systems & Automation</span>
+  </div>
+</section>
+
+<section>
+  <h2>Education & Professional Memberships</h2>
+  <ul>
+    <li>BSc. Accounting – Lagos State University</li>
+    <li>ACA (Professional Level) – Institute of Chartered Accountants of Nigeria (ICAN)</li>
+    <li>MSc. Business Psychology (In View) – University of East London</li>
+    <li>Member, Association of Corporate Treasurers of Nigeria (ACTN)</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Key Impact & Achievements</h2>
+  <div class="grid">
+    <div class="card"><strong>Liquidity & Cash Management</strong><p>Managed multi‑billion‑naira cash flows across FMCG and automobile businesses, ensuring optimal liquidity, funding availability, and working capital efficiency.</p></div>
+    <div class="card"><strong>Trade Finance & FX Exposure</strong><p>Oversaw large‑scale Letters of Credit, FX sourcing, utilization, and liquidation across multiple currencies while ensuring full regulatory compliance.</p></div>
+    <div class="card"><strong>Banking & Capital Structure</strong><p>Managed extensive multi‑bank relationships, negotiated pricing, recovered excess charges, and supported domestic and international financing initiatives.</p></div>
+    <div class="card"><strong>Leadership & Treasury Controls</strong><p>Led treasury teams, implemented best‑in‑class policies, strengthened controls, and drove automation and system enhancement projects.</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>Contact & Executive Profile</h2>
+  <p>I am open to senior treasury leadership roles, strategic finance advisory engagements, and board-level collaboration.</p>
+  <ul>
+    <li>Email: <strong>yomi894@gmail.com</strong></li>
+    <li>Phone / WhatsApp: <strong>08022295247</strong></li>
+    <li>LinkedIn: <strong>linkedin.com/in/yomi-soremi-9b01b727b</strong></li>
+    <li>Domain: <strong>abayomisoremi.com</strong></li>
+    <li>Location: Lagos, Nigeria</li>
+  </ul>
+  <p><strong>Download Executive CV:</strong> <em>(PDF – coming next)</em></p>
+</section>
+
+<footer>
+  <p>© 2026 Abayomi Soremi | Treasury & Finance Professional</p>
+</footer>
+
+</body>
+</html>
